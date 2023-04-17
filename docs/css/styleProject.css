@@ -62,15 +62,7 @@ img {
   color: rgb(84, 89, 95);
 }
 .ag-timeline_title {
-  background-image: url(https://th.bing.com/th/id/OIP.S_1RzdNAXUesElFclPjUaQHaEr?pid=ImgDet&rs=1);
-  background-repeat: no-repeat;
-  background-position: 50% 50%;
-
-  background-size: cover;
-  -webkit-background-clip: text;
-  background-clip: text;
-  text-fill-color: transparent;
-  color: transparent;
+  color: rgb(11, 197, 202);
 
   font-size: 80px;
 }
@@ -113,7 +105,7 @@ img {
 .ag-timeline_line-progress {
   width: 100%;
   height: 20%;
-  background-color: rgb(0, 145, 255);
+  background-color: rgb(11, 197, 202);
 }
 
 .ag-timeline-card_box {
@@ -133,7 +125,7 @@ img {
   height: 50px;
   line-height: 50px;
   width: 50px;
-  border: 3px solid rgb(0, 145, 255);
+  border: 3px solid rgb(11, 197, 202);
   background-color: #1d1d1b;
 
   text-align: center;
@@ -147,7 +139,7 @@ img {
 }
 .js-ag-active .ag-timeline-card_point {
   color: #1d1d1b;
-  background-color: rgb(0, 145, 255);
+  background-color: rgb(11, 197, 202);
 }
 .ag-timeline-card_meta-box {
   display: inline-block;
@@ -158,7 +150,7 @@ img {
   font-family: 'ESL Legend', sans-serif;
   font-weight: bold;
   font-size: 28px;
-  color: rgb(0, 145, 255);
+  color: rgb(11, 197, 202);
 }
 .ag-timeline-card_item {
   display: inline-block;
