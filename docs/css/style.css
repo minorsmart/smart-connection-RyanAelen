@@ -1,1 +1,4 @@
-# Empty CSS file for your own CSS
+body {
+    background-color: #000;
+    overflow-x: hidden;
+}
