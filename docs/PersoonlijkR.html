@@ -1,67 +1,64 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-	<title>My Blog</title>
+	<title>Ryan</title>
 	<meta name="description" content="Awesome blog by Traversy Media">
 	<meta name="keywords" content="web design blog, web dev blog, traversy media">
-	<style type="text/css">
-		#main-header{
-			text-align:center;
-			background-color:black;
-			color:white;
-			padding:10px;
-		}
-
-		#main-footer{
-			text-align: center;
-			font-size:18px;
-		}
-	</style>
+	<link rel="stylesheet" href="./css/styleProject.css">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<link href="css/style.css" rel="stylesheet">
 </head>
+
 <body>
-	<header id="main-header">
-		<h1>Ryan</h1>
-	</header>
+	<h1 class="text-center text-muted">
+		Persoonlijk portfolio Ryan
+	</h1>
+	<ul class="nav nav-tabs">
+		<li class="nav-item">
+			<a class="nav-link " href="Main.html">Project pagina</a>
+		</li>
 
-	<a href="Main.html">Go to index</a>
+		<li class="nav-item">
+			<a class="nav-link" href="PersoonlijkC.html">Persoonlijke portfolios Chantal</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link active" href="#">Persoonlijke portfolios Ryan</a>
+		</li>
+		<li class="nav-item">
+			<a class="nav-link" href="PersoonlijkJ.html">Persoonlijke portfolios Joris</a>
+		</li>
 
-	<section>
-		<article class="post">
-			<h3>Blog Post One</h3>
-			<small>Posted by Brad on July 17</small>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			<a href="post.html">Read More</a>
-		</article>
+	</ul>
 
-		<article class="post">
-			<h3>Blog Post Two</h3>
-			<small>Posted by Brad on July 17</small>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			<a href="post.html">Read More</a>
-		</article>
+	<!-- partial:index.partial.html -->
+	<div class="ag-timeline-block">
+		<div class="ag-timeline_title-box">
+			<div class="ag-timeline_title">De projects tijdlijn</div>
+		</div>
 
-		<article class="post">
-			<h3>Blog Post Three</h3>
-			<small>Posted by Brad on July 17</small>
-			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-			tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-			quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-			consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-			cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-			proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-			<a href="post.html">Read More</a>
-		</article>
-	</section>
+		<section class="ag-section">
+			<div class="ag-format-container">
+				<div class="js-timeline ag-timeline">
+					<div class="js-timeline_line ag-timeline_line">
+						<div class="js-timeline_line-progress ag-timeline_line-progress"></div>
+					</div>
+					<div class="ag-timeline_list">
+						<script src="./ryanCards.js"></script>
+						<div class="timeline-container">
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+	</div>
+	<!-- partial -->
+
+	<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js'></script>
+	<script src="./script.js"></script>
+	<script src="timeline.js"></script>
+
+
 
 	<aside>
 		<h3>Categories</h3>
@@ -78,4 +75,5 @@
 		<p>Copyright &copy; 2017, My Website</p>
 	</footer>
 </body>
+
 </html>
