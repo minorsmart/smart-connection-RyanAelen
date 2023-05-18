@@ -1,4 +1,4 @@
-function generateTimelineCard(point, meta, imgSrc, imgAlt, title, desc, pointFirst) {
+function generateTimelineCard(point, imgSrc, imgAlt, title, desc, pointFirst, meta = title) {
   var pointbox = "";
   const pointerhtml = `<div class="js-timeline-card_point-box ag-timeline-card_point-box">
   <div class="ag-timeline-card_point">${point}</div>
@@ -36,12 +36,12 @@ for (let i = 0; i < timelineCards.length; i++) {
   const pointFirst = i % 2 === 0 ? true : false;
   const timelineCardHtml = generateTimelineCard(
     timelineCards[i].point,
-    timelineCards[i].meta,
     timelineCards[i].imgSrc,
     timelineCards[i].imgAlt,
     timelineCards[i].title,
     timelineCards[i].desc,
-    pointFirst
+    pointFirst,
+    timelineCards[i].meta
   );
   $(".timeline-container").append(timelineCardHtml);
 }
