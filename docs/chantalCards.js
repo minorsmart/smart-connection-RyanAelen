@@ -10,7 +10,7 @@ const timelineCards = [
     {
         point: "Week 2",
         meta: "Sprint 1",
-        imgSrc: "https://example.com/image2.jpg",
+        imgSrc: "docs/photo_2023-05-17_12-53-35.jpg",
         imgAlt: "Example Image 2",
         title: "Sprint 1",
         desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
@@ -21,7 +21,7 @@ const timelineCards = [
         imgSrc: "https://example.com/image3.jpg",
         imgAlt: "Example Image 3",
         title: "Sprint 2",
-        desc: "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu."
+        desc: "Chantals pagina"
     }
     ,
     {
