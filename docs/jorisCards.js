@@ -43,28 +43,55 @@ const timelineCards = [
     ,
     {
         point: "",
-        meta: "Smart project 1: Nieuwe mensen",
-        imgSrc: "PersoonlijkJ/1.png",
+        meta: "Smart Technology 1: Ontwerpen",
+        imgSrc: "PersoonlijkJ/2023-04-17 16_54_39-Autodesk Fusion 360 (Education License).png",
         imgAlt: "Example Image 3",
-        title: "Workshop 3: ",
+        title: "Smart Technology 1: Ontwerpen",
+        desc: "Tijdens het vak smart technology hebben we gewerkt aan een module die de status van een plant kan monitoren. Dit is het resultaat van het ontwerp, om mijzelf uit te dagen had ik ervoor gekozen om het zo compact mogelijk te maken. Het bakje is 60*60*50 mm."
+    }
+    ,
+    {
+        point: "",
+        meta: "Smart Technology 2: Elektronica",
+        imgSrc: "PersoonlijkJ/2023-04-17 16_56_42-Autodesk Fusion 360 (Education License).png",
+        imgAlt: "Example Image 3",
+        title: "Smart Technology 2: Elektronica",
+        desc: "Om de verbindengen tussen de verschillende onderdelen te maken hebben we een PCB ontworpen. Ik heb dit samen met medestudenten te doen. Dit is goed gegaan en alle verschillende onderdelen werken."
+    }
+    ,
+    {
+        point: "",
+        meta: "Smart Technology 3: De software",
+        imgSrc: "PersoonlijkJ/2023-05-20 12_50_59-syn6-ioh4wtzus3bmuwg4wvaqz7qlvifibkisqwxmaadeqj2d774ibjtu.jorispost34.direct.qui.png",
+        imgAlt: "Example Image 3",
+        title: "Smart Technology 3: De software",
+        desc: "Tijdens het programmeren van de ESP heb ik gekozen om mijzelf uit te dagen op een gebied waar ik meer over wilde leren. Dit was het programmeren van databases. Ik wil data kunnen versturen naar een eigen NAS server waar ik de data op kan slaan. Om dit te bereiken heb ik een Raspberry Pi gebruikt waar de ESP verbinding mee maakt, die vervolgens de data naar de NAS stuurt. Dit is gelukt en het resultaat is te zien in de foto hierboven. "
+    }
+    ,
+    {
+        point: "",
+        meta: "Smart Technology 4: De software",
+        imgSrc: "PersoonlijkJ/2023-05-18 13_57_13-Blynk.Console.png",
+        imgAlt: "Example Image 3",
+        title: "Smart Technology 4: De software",
+        desc: "Ook is er nog een live dashboard waar de data live kan worden ingezien. Zie de foto voor het resultaat."
+    }
+    ,
+    {
+        point: "",
+        meta: "Smart Project: Het team",
+        imgSrc: "2023-05-17 13_09_12-.png",
+        imgAlt: "Example Image 3",
+        title: "Smart Project: Het team",
         desc: ""
     }
     ,
     {
         point: "",
-        meta: "Workshop 3: ",
-        imgSrc: "PersoonlijkJ/2023-05-18 11_43_52-Overzicht – Home Assistant and 4 more pages - Profile 1 - Microsoft​ Edge.png",
+        meta: "Smart Project: Het project ",
+        imgSrc: "https:/vscode-file://vscode-app/c:/Users/joris/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html/heerlijkehappen.nl/wp-content/uploads/2022/08/Klassieke-Cuba-libre-cocktail-7-scaled.jpg",
         imgAlt: "Example Image 3",
-        title: "Workshop 3: ",
-        desc: "Tijdens de workshop<a href =Cocktail_pagina.html attributes-list>Klik hier voor de cocktail API</a>"
-    }
-    ,
-    {
-        point: "",
-        meta: "Workshop 3: ",
-        imgSrc: "https://heerlijkehappen.nl/wp-content/uploads/2022/08/Klassieke-Cuba-libre-cocktail-7-scaled.jpg",
-        imgAlt: "Example Image 3",
-        title: "Workshop 3: ",
+        title: "Smart Project: Het project ",
         desc: "Tijdens de workshop<a href =Cocktail_pagina.html attributes-list>Klik hier voor de cocktail API</a>"
     }
 ];
