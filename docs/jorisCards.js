@@ -29,7 +29,7 @@ const timelineCards = [
         imgSrc: "PersoonlijkJ/IMG-20230216-WA0051.png",
         imgAlt: "Example Image 3",
         title: "Kookworkshop bij het kookcollege",
-        desc: 'gsrdgh '
+        desc: 'De kookworkshop bij het Kookcollege was een geweldige ervaring waarbij ik heb samengewerkt met mensen van verschillende disciplines. We hebben binnen de tijd plezier gehad en een heerlijk dessert bereid. Het was een leuke oefening om mijn communicatievaardigheden te verbeteren. Kortom, de kookworkshop bood zowel een smakelijke ervaring als de mogelijkheid om te leren samenwerken en communiceren in een culinaire setting.'
     }
     ,
     {
@@ -77,21 +77,22 @@ const timelineCards = [
         desc: "Ook is er nog een live dashboard waar de data live kan worden ingezien. Zie de foto voor het resultaat."
     }
     ,
-    {
+        {
         point: "",
-        meta: "Smart Project: Het team",
-        imgSrc: "2023-05-17 13_09_12-.png",
+        meta: "Smart Technology 4: De software",
+        imgSrc: "PersoonlijkJ/2023-05-18 13_57_13-Blynk.Console.png",
         imgAlt: "Example Image 3",
-        title: "Smart Project: Het team",
-        desc: ""
+        title: "Smart Technology 4: De software",
+        desc: "Ook is er nog een live dashboard waar de data live kan worden ingezien. Zie de foto voor het resultaat."
     }
     ,
     {
         point: "",
-        meta: "Smart Project: Het project ",
-        imgSrc: "https:/vscode-file://vscode-app/c:/Users/joris/AppData/Local/Programs/Microsoft%20VS%20Code/resources/app/out/vs/code/electron-sandbox/workbench/workbench.html/heerlijkehappen.nl/wp-content/uploads/2022/08/Klassieke-Cuba-libre-cocktail-7-scaled.jpg",
+        meta: "Smart Project: De rol binnen het project",
+        imgSrc: "2023-05-17 13_09_12-.png",
         imgAlt: "Example Image 3",
-        title: "Smart Project: Het project ",
-        desc: "Tijdens de workshop<a href =Cocktail_pagina.html attributes-list>Klik hier voor de cocktail API</a>"
+        title: "Smart Project: De rol binnen het project",
+        desc: "Het doel van mijn project was het ontwikkelen van een home energy management system dat inzicht biedt in het energieverbruik en de huidige energietarieven. Ik was direct om door het enthousiasme van Pieter tijdens zijn presentatie, en zijn passie sprak me meteen aan. Daarnaast sprak de opdracht mij aan omdat ik het gevoel had dat ik hierdoor nieuwe vaardigheden kon leren die ik nog niet eerder had ontwikkeld.\n\nGedurende het project heb ik het geluk gehad om te leren van twee bijzondere mensen: Chantal en Ryan. Chantal heeft me op het gebied van bedrijfskunde veel bijgebracht en heeft me geholpen bij het opzetten van een bedrijf. Haar kennis en expertise op dit gebied zijn van onschatbare waarde gebleken, en ik weet zeker dat ik hier in de toekomst enorm veel profijt van zal hebben.\n\nAan de andere kant heb ik veel geleerd van Ryan, die een schat aan kennis heeft op het gebied van programmeren en passie heeft voor het delen van die kennis. Hij heeft me versteld doen staan met zijn vermogen om complexe onderwerpen op een begrijpelijke manier uit te leggen. Zijn uitleg heeft me geholpen om mijn programmeervaardigheden naar een hoger niveau te tillen.\nBinnen het project kreeg ik de kans om zowel bij te dragen aan de zakelijke kant als aan het programmeren van ons product. Dit heeft me waardevolle ervaring opgeleverd op het gebied van het organiseren van vergaderingen, het leggen van goede contacten en het ontwikkelen van mijn programmeervaardigheden.\n\nIk ben enorm dankbaar voor de kans om met zulke inspirerende mensen te werken en ik ben trots op wat we als team hebben bereikt. Deze ervaring heeft mijn persoonlijke en professionele groei gestimuleerd en ik ben ervan overtuigd dat de lessen die ik van Chantal en Ryan heb geleerd, een blijvende impact zullen hebben op mijn toekomstige carrière.\n\nDus, Chantal en Ryan, bedankt voor jullie inspiratie, begeleiding en samenwerking. Ik waardeer jullie enorm en ik kijk uit naar onze toekomst. Samen zullen we nog meer geweldige dingen bereiken!"
     }
+
 ];
