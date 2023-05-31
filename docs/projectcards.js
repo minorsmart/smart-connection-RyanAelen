@@ -18,56 +18,39 @@ const timelineCards = [
     },
     {
         point: "",
-        meta: "Workshop 1: Hacking your brain",
+        meta: "Het plan van aanpak:",
         imgSrc: "",
         imgAlt: "Example Image 1",
-        title: "Kick-Off",
+        title: "Het plan van aanpak:",
         desc:  ""
     }
     ,
     {
         point: "",
-        meta: "Workshop 2: Kookworkshop",
+        meta: "Wat hebben wij gemaakt:",
         imgSrc: "",
         imgAlt: "Example Image 3",
-        title: "Kookworkshop bij het kookcollege",
+        title: "Wat hebben wij gemaakt:",
         desc:  ""
     }
     ,
     {
         point: "",
-        meta: "Workshop 3: Smart connection",
+        meta: "Wie hebben wij voor het project gesproken?",
         imgSrc: "",
         imgAlt: "Example Image 3",
-        title: "Workshop 3: ",
+        title: "Wie hebben wij voor het project gesproken?",
         desc:  ""
     }
     ,
     {
         point: "",
-        meta: "Smart Technology 1: Ontwerpen",
+        meta: "Hoe gaan wij verder:",
         imgSrc: "",
         imgAlt: "Example Image 3",
-        title: "Smart Technology 1: Ontwerpen",
+        title: "Hoe gaan wij verder:",
         desc:  ""
-    }
-    ,
-    {
-        point: "",
-        meta: "Smart Technology 2: Elektronica",
-
-        title: "Smart Technology 2: Elektronica",
-        desc:  ""
-    }
-    ,
-    {
-        point: "",
-        meta: "Smart Technology 3: De software",
-        imgSrc: "",
-        imgAlt: "Example Image 3",
-        title: "Smart Technology 3: De software",
-        desc: ""
     }
 
-
+   
 ];
