@@ -16,10 +16,10 @@ function generateTimelineCard(point, imgSrc, imgAlt, title, desc, pointFirst, me
         ${pointbox}
         </div>
         <div class="ag-timeline-card_item">
-          <div class="ag-timeline-card_inner">
+          <div class="ag-timeline-card_inner">`+((imgSrc != undefined || imgSrc != null)?`
             <div class="ag-timeline-card_img-box">
               <img src="${imgSrc}" class="ag-timeline-card_img" alt="${imgAlt}" width="640" height="360" />
-            </div>
+            </div>`:"")+`
             <div class="ag-timeline-card_info">
               <div class="ag-timeline-card_title">${title}</div>
               <div class="ag-timeline-card_desc">${desc}</div>
