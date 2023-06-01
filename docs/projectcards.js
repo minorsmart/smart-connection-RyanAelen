@@ -11,7 +11,7 @@ const timelineCards = [
     {
         point: "",
         meta: "Het doel van het project:",
-        imgSrc: "",
+        imgSrc: "https://www.trending.nl/wp-content/webp-express/webp-images/doc-root/wp-content/uploads/2023/03/eigen-bedrijf-1920x1280.jpg.webp",
         imgAlt: "Example Image 1",
         title: "Omschrijving van het project:",
         desc:  "Het doel van dit project was om een product te ontwikkelen tot Technical Readiness Level 4. Bovendien kregen we een geweldige kans om samen met Pieter een eigen bedrijfje op te richten voor dit product. Ons uiteindelijke doel was om een innovatieve oplossing te creëren die consumenten op eeb gemakkelijke manier helpt om volledige controle te krijgen over hun energieverbruik."
@@ -22,7 +22,7 @@ const timelineCards = [
         imgSrc: "",
         imgAlt: "Example Image 1",
         title: "Het plan van aanpak:",
-        desc:  ""
+        desc:  "Aan het begin van het project moesten we een plan van aanpak opstellen. Een voorgaande groep had al een eerste versie gemaakt, waarin het verloop van het project en de fasering stonden beschreven. Samen met Pieter Hoenderken hebben we dit plan doorgenomen om ervoor te zorgen dat we dezelfde visie deelden. Het was belangrijk om op één lijn te zitten en duidelijkheid te hebben over de doelen en het tijdschema van het project."
     }
     ,
     {
@@ -40,7 +40,22 @@ const timelineCards = [
         imgSrc: "",
         imgAlt: "Example Image 3",
         title: "Wie hebben wij voor het project gesproken?",
-        desc:  ""
+        desc:  `
+        Ben Fransen,<br>
+        We zijn met fransen aan het begin van het project in contact gekomen. Hij is heeft in een kranten artiekel gestaan met een soort gelijk product als wij voor ogen hadden. Na dit artiekel was de vraag zo hoog (Ruim 5000 aanvragen binnen een korte tijd). Dat hij het verkopen van het product niet binnen zijn ambieties viel en dus ervoor heeft gekozen om ermee te stoppen. Wij wilen hem om informatie vragen en hebben hiervoor een vragenlijst doorgestuurd waar hij op heeft geantwoord. Dit was een mooi startpunt voor de informatie van het project.
+        <br><br>
+        Willem van Deelen, <br>
+        Een financieel adviseur, is met ons in contact gebracht door onze projectbegeleider, Pieter Bergshoeff. We hadden specifiek om onafhankelijk advies gevraagd met betrekking tot de risicos van het opzetten van een onderneming. Tijdens het gesprek nam Willem de tijd om ons uitgebreid te informeren over de verschillende risico's en de stappen die we moeten nemen. We waardeerden zijn deskundigheid en grondige uitleg.
+        <br><br>
+        Griet van Waeyenberge,<br>
+        Griet is een expert op het gebied van energieleveranciers en de energiemarkt in Nederland. We zijn met Griet in contact gekomen via Marielle Seegers, onze begeleider van de Minor Smart Industry. Met Griet hebben we kunnen spreken over, De rol van programmaverantwoordelijkheid in de elektriciteitsmarkt, dat er altijd balans moet zijn in de markt. De Transmissie Systeembeheerder (TENET) is hierbij belangrijk. Een mogelijke oplossing voor het ontwikkelen van algoritmes zonder data te delen. De wetten rondom salderen van de Rijksoverheid.
+        <br><br>
+        Dave Lusthof,<br>
+        Dave is de eigenaar en oprichter van het bedrijf Cinergy in Uden. We zijn in contact gekomen met Dave door Pieter B. die wij hadden gevraagd of er iemand in zijn netwerk verstand had van het verkrijgen van energieprijzen.<br> We zijn samen naar Dave toegegaan we presenteerden hem ons product en een deel van onze go-to-market strategie, inclusief een demonstratievideo. Deze sessie was zeer interactief en Lusthof was bijzonder enthousiast over ons idee. Hij ziet potentieel voor samenwerking, waarbij wij kunnen bijdragen aan het visueel optimaliseren van Cinergie's dashboard.Naast de professionele waardering, toonde Lusthof ook persoonlijke interesse in ons product als consument. Dit was een bevestiging van de aantrekkelijkheid van ons product en de relevantie ervan voor de markt. <br>Opmerkelijk was dat Dave aangaf dat hij mogelijk bereid zou zijn om in ons project te investeren. Dit is een belangrijke kans voor ons en we hebben een vervolgafspraak gepland op 21 juni om ons businessplan aan hem te presenteren. Deze bijeenkomst zal een belangrijke stap zijn in het verdere ontwikkelingsproces van ons product en de potentiële samenwerking met Lusthof en Cinergie.
+        <br><br>
+        Peter en Erik,<br>
+        Zij zijn werknemers van Pieter H. Peter is een projectleider en heeft veel kennis op het gebied van Software, Erik is de commercieel directeur van Impact. In onze discussie presenteerden we ons product, de HomeCube, en onze go-to-market-strategie. We hadden een diepgaande dialoog over verschillende aspecten, waaronder de keuze van hardware voor de HomeCube en de beveiliging van de software. Bovendien bespraken we onze doelgroep en hoe deze te benaderen, de timing van promotionele activiteiten, de op handen zijnde Kickstarter-campagne, en de voortdurende productontwikkeling. We deelden ook onze visie op HomeCube en verkenden mogelijke samenwerkingsverbanden, waaronder een interessante connectie met Alliander. Met hun inzicht en feedback voelen we ons beter voorbereid voor de komende stappen van ons project. 
+        `
     }
     ,
     {
