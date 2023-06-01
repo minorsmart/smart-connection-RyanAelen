@@ -255,6 +255,7 @@ img {
 
 .ag-timeline-card_info {
   padding: 20px 30px;
+  text-align: left;
 }
 
 .ag-timeline-card_title {
@@ -350,6 +351,7 @@ img {
 
   .ag-timeline-card_info {
     padding: 10px 15px;
+    text-align: left;
   }
 
   .ag-timeline-card_desc {
