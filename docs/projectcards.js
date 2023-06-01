@@ -64,7 +64,7 @@ const timelineCards = [
         imgSrc: "",
         imgAlt: "Example Image 3",
         title: "Hoe gaan wij verder:",
-        desc:  ""
+        desc:  "Ons doel is om het project voort te zetten, ook buiten de minor. We hebben de deadlines voor de praktijktest en de kickstartercampagne al vastgesteld. Daarnaast streven we ernaar om gezamenlijk een bedrijf op te richten waarbinnen we ons product verder kunnen laten groeien."
     }
 
    
