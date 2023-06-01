@@ -28,7 +28,7 @@ const timelineCards = [
     {
         point: "",
         meta: "Wat hebben wij gemaakt:",
-        imgSrc: "",
+        imgSrc: "2023-06-01 13_09_47-Overzicht – Home Assistant - Profile 1 - Microsoft​ Edge.png",
         imgAlt: "Example Image 3",
         title: "Wat hebben wij gemaakt:",
         desc:  "We hebben een softwareproduct ontwikkeld dat draait op de Raspberry Pi, een krachtige single board computer. Dit product stelt consumenten in staat om eenvoudig verbinding te maken met het netwerk en de P1-poort van hun slimme energiemeter uit te lezen. Wat dit product zo bijzonder maakt, is dat het volledige systeem automatisch wordt ingesteld, waardoor technische ervaring niet nodig is. Consumenten kunnen moeiteloos inzicht krijgen in hun energieverbruik zonder gedoe met ingewikkelde installatieprocedures. Het gemak staat centraal, waardoor iedereen, ongeacht technische vaardigheden, gebruik kan maken van ons product en controle kan krijgen over hun energiegebruik.<br><br>Ons product bevat gebruiksvriendelijk dashboard dat op een apart scherm kan worden geplaatst en overal in het huis kan worden neergezet. Dit dashboard biedt consumenten een overzichtelijk interface waarop ze hun energieverbruik kunnen volgen en beheren. Het flexibele ontwerp stelt gebruikers in staat om het dashboard naar eigen voorkeur te plaatsen, of het nu in de keuken, woonkamer of zelfs op het bureau is. Op deze manier wordt het gemakkelijker dan ooit om real-time inzicht te krijgen in het energieverbruik, waardoor consumenten bewuste beslissingen kunnen nemen en hun energie-efficiëntie kunnen verbeteren."
