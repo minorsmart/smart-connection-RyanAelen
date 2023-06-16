@@ -1,38 +1,29 @@
 var timelineCards2 = [
     {
-        "date": "2023-03-22",
-        "title": "ander preosntne van managmenet g.e",
-        "point": "week&nbsp12",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "we gaan een case, voor enen iweinn bisnisne model komen.\nkijken wat er gebeut in de ognienateines .\nDe naam is Interest.\n\n* directie",
-        "path": "\\ander preosntne van managmenet g.e.md"
-    },
-    {
         "date": "2023-04-05",
         "title": "BESSI",
         "point": "week&nbsp14",
-        "imgSrc": "",
+        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "Bunnnies mode lcanvas. \nbedrijfs model. wat ben je met elkaar. \nBuniess Ecosstem Scan for Smart Inovation [[BESSI]]",
+        "desc": "Bij de project van MSI hebben we deels bessi kunnen invulle, omdat we een new product op de markt willen brengen konden we helaas niet veel van invullen en moesten we nog zelf uit vogelen waar we naar toe werken. Dit maakte voor mij maar ook voor het team duidelijk dat het product nog in kinder schoenen staat en we een hoop werk te gemoet zullen krijgen.",
         "path": "\\BESSI.md"
     },
     {
         "date": "2023-02-08",
         "title": "BMC",
         "point": "week&nbsp06",
-        "imgSrc": "",
+        "imgSrc": "PersoonlijkR/DMC.png",
         "imgAlt": "",
-        "desc": "Busness model canvas\n\nhele binus op 1A4\n\nje begint dmet waarde propotienesie.",
+        "desc": "Geleerd wat een BMC is en hoe je die moet invullen",
         "path": "\\BMC.md"
     },
     {
         "date": "2023-03-14",
         "title": "Brain Hacking met Ilke Oner",
         "point": "week&nbsp11",
-        "imgSrc": "",
+        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "[[Ilke Oner]]\n\nMaster Mind. \n\n[[Neuropsychologie]]",
+        "desc": "De belangrijkse wat ik heb mee gekregen tijdens de brain hacking is hoe je naar andere over brengt en over je zelf zet tegen over andere. Bij de talk en met een op een gesprek met Ilke verdiepen in Rappor. Probleem waar mee ik zat is dat je zelf en de ander persoon op elkaar afstem, dat je eigelijk elkaar zit te missleidinen door te doen of iemand anders ben dan wie je eigelijk bent. Zo voel ik mij er bij. en dit te doorbreken dat het niet zo is, ben ik nog steeds mee bezig daar convertable bij te voelen.",
         "path": "\\Brain Hacking met Ilke Oner.md"
     },
     {
@@ -66,40 +57,12 @@ var timelineCards2 = [
         "path": "\\competenties.md"
     },
     {
-        "date": "2023-02-08",
-        "title": "Data busness case",
-        "point": "week&nbsp06",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "[[axa]] verzerkehaar.\nje wilt de inkomenst, uitgaven, opratie costen, en volgens de winst in beld hebben.\nje wilt je mark in zicht krijgken.\nzien hoeveel van die mark jij zelf bezit. \nje wilt verdelen van de mark die je bezien welke projdctie je in % je leverd.",
-        "path": "\\Data busness case.md"
-    },
-    {
-        "date": "2023-02-03",
-        "title": "Idee",
-        "point": "week&nbsp05",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "e-inkt planning board/ tablet/ \n\nhet apparataat moet light zijn. vergelijbaar met een e-reader. e-reader is eigen waar de bais van af komt. \n\nwat moet het kunnen.",
-        "path": "\\Idee.md"
-    },
-    {
         "date": "2023-04-06",
         "title": "SECO",
         "point": "week&nbsp14",
-        "imgSrc": "",
+        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "is nog niet duidelijk wat ze doen, watn ik ben te rlaat gekomen.\nhet lijkt der op dat hun boor bittjes, maken voor bedrijfen op het t egrbruiken.\neerste deel waar bi k bij mben gaat over iets,\nwe kregen een power point van een persoon, wie weeik niet wan t ik kwam later binnen. \ngat over vabricaie, van boor onderdleen. en ander fabricia dat wordt gedaan. iets over het same nwillen werken met de ander 3 fabrieken die ze hebben. om zo elkaar te kunnen helpen.",
-        "path": "\\SECO.md"
-    },
-    {
-        "date": "2023-03-22",
-        "title": "Taakdenken.",
-        "point": "week&nbsp12",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "Door Jos Sanders.smart me works hop \nje vaan kijke na ls een set va ntaken, en hoe jdat dat kan aap akken.\nkijken hoe je baan veradner als de werk flooor smarter word. \nje moet opleesten, dat de veradneringen bij smarter maken, de impackt heeft op de werkploer. \nJos Sanders is een lektor van de HAN.",
-        "path": "\\Taakdenken..md"
+        "desc": "De Seco bezoek was een van de hogere intrestanten bedrijfs bezoeken, hierwas de opdracht voor een verbetervoorstel uitermaten lastig om uit te werken. Zelf vind ik het niet de beste oplossing voor hun die Anthony, ik, Aaron, Saar hebben geprestneerd. Dit komt omdat het bedrijf al heel veel zaken op orde hebben, of al zaken die we konden bedenken zijn ze al actief mee bezig."
     },
     {
         "date": "2023-01-31",
@@ -114,216 +77,77 @@ var timelineCards2 = [
         "date": "2023-03-08",
         "title": "bedrijf ELK",
         "point": "week&nbsp10",
-        "imgSrc": "",
+        "imgSrc": "https://www.elk.nl/upload/xlarge/slider-badkamer.jpg",
         "imgAlt": "",
-        "desc": "## presentatie. \n\nalsj e als instaltien bedrijf wilt werken, wil je je batches zo klein mogelijkeh houden. dit klopt niet echt. je wilt de items pdie in een batch zit zo simple mogelijk hebben en klein, en daar",
+        "desc": "Bij het bedrijven bezoek van Elk was ik oorspronkelijk op het verkeerde address beland, gelukkig heb ik samen met twee ander studentne kunnen regelen voor vervoer naar de correcte locatie. Een van mijn zelf ontwikkeling was meer met mensen in contact staan/ zoeken. Deed ik dat niet dan zal ik veel later aanwezig zijn geweest. <br> Ook heb ik geleerd en ben ik van mening dat het agil te werk gaan niet enkel binnen de software developemnt gebruikt kan worden maar ook zijn plaats heeft binnen andere bedrijfs omgevingen en doelen. Bij de ",
         "path": "\\Smart Busines\\bedrijf ELK.md"
-    },
-    {
-        "date": "2023-03-17",
-        "title": "Job",
-        "point": "week&nbsp11",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "Hen is een neppert. fontys einleeuw Automovite",
-        "path": "\\Smart Busines\\Job.md"
-    },
-    {
-        "date": "2023-03-17",
-        "title": "Operating Model",
-        "point": "week&nbsp11",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "drie hoek, van Methoe Machine en mensen. \n\nde driek hoek kan onderveeld wordne uit, \nstrategical, tractical, operational.",
-        "path": "\\Smart Busines\\Operating Model.md"
-    },
-    {
-        "date": "2023-03-17",
-        "title": "Prestnatien pail kalis",
-        "point": "week&nbsp11",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "CEO van Lendex\n\nLEase bedrijf.\neerder efucntie is COO, van qander consumer finance.\nhttps://www.hiltermannlease.nl/",
-        "path": "\\Smart Busines\\Prestnatien pail kalis.md"
     },
     {
         "date": "2023-02-01",
         "title": "Smarkt busniess",
         "point": "week&nbsp05",
-        "imgSrc": "",
+        "imgSrc": "PersoonlijkR/pithces.png",
         "imgAlt": "",
-        "desc": "## Power point door [[Mari\u00eblle Seegers]]\nvolgende week komen all bedrijven. \nde Pitch is 1 week verschoven. \n\tvoor beide gevallen moet je in wijchen zijn.\n\t15-02-2023 komen pitchs.",
+        "desc": `Mijn eigen leerdoelen voor de smart business bestaat uit <ul>
+        <li>Geen aannamens nemen:</li> Dit doe ik door door tevragen als ik iets niet begreep of heb verstaan.
+        <li>Namen van de studenten weten:</li> Dit doe ik door elke bijeenkomst de namen door te nemen en te oefenen. 
+        <li>Mij zelf verbeteren op in social aspect:</li> Dit doe ik door mij zelf naar voren te brengen.
+        </ul>`,
         "path": "\\Smart Busines\\Smarkt busniess.md"
     },
     {
         "date": "2023-03-14",
         "title": "value proposition canvas",
         "point": "week&nbsp11",
-        "imgSrc": "",
+        "imgSrc": "PersoonlijkR/value-proposition-canvas-2239425063.png",
         "imgAlt": "",
-        "desc": "- Hoe voeg je waarde toe aan je klant. [[CEX]] \nwe worden in de klant rol neer gezet.",
+        "desc": "De value propersistion canvas was een canvas waar ik nog vragen bij had, geluk kon ik met de kennis van Chantal extra informatie ontrekken om mij duidelijker te maken. Dit heb ik kunnen gebruiken bij het project van MSI om te kijken welke pijnen handig is om te ontnemen van de klant.",
         "path": "\\Smart Busines\\value proposition canvas.md"
     },
-    {
-        "date": "2023-02-15",
-        "title": "Agriware",
-        "point": "week&nbsp07",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "cor verbouwe.\nbedrijf in veendaal.\nintronsonaal bedrijf.\nze biedne diensten met behulp van ms Azure.\nhoedoel groep sectoren is, de plant industrie. tuinbouw.",
-        "path": "\\Smart Busines\\pitchens\\Agriware.md"
-    },
-    {
-        "date": "2023-02-15",
-        "title": "giesbers,",
-        "point": "week&nbsp07",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "nilse bruis.\n\nontwikkelen en bouwen, in wijchen.\nbouw bedrijf. voor gebouwen.\n75 mensen groot.",
-        "path": "\\Smart Busines\\pitchens\\giesbers,.md"
-    },
-    {
-        "date": "2023-02-15",
-        "title": "Impackt Iot soluciton",
-        "point": "week&nbsp07",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "Pieter hoenderken.\nze maken van office 358,\nR&D. \nze hebben project gevoldn over gebruik van waterstof voor thuis woningen.\n... persoon is moelijk te voglen.",
-        "path": "\\Smart Busines\\pitchens\\Impackt Iot soluciton.md"
-    },
-    {
-        "date": "2023-02-15",
-        "title": "Mpac",
-        "point": "week&nbsp07",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "Frank en willem.\n\nbedrijf maken machien voor het karton verpakking.  voedles verpakkingen.\n\nze hebben een prodcutei logiet in wijcne.",
-        "path": "\\Smart Busines\\pitchens\\Mpac.md"
-    },
-    {
-        "date": "2023-02-15",
-        "title": "Oceanz",
-        "point": "week&nbsp07",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "3d print servise bereuo, ze hebben printesr, en huren die uit voor gebruik naar ander mensen. \nhet is prceisie werk dat ze leveren. en voor bedrijfen, en zijn productie op vraag.\nzo kunt je denken aan protages voor ziekenhuisen. dus hun productie de ze hebben verschillen.\nhun process kan tot 1 eenheid zijn maar ook grote batchen worden gervaag van 500 units. \nhun uitsdaging.",
-        "path": "\\Smart Busines\\pitchens\\Oceanz.md"
-    },
-    {
-        "date": "2023-02-15",
-        "title": "van losser groep",
-        "point": "week&nbsp07",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "tjalle bulten.\npersoon is van 21 tot huidig 36 op bedrijf.\nze zijn een instaltie bedrijf. \nhebben merder bedrijf eplrkken waar ze zitten. \nde groep heeft meeft meeder klijenen BV. die bij hun horen .",
-        "path": "\\Smart Busines\\pitchens\\van losser groep.md"
-    },
-    {
-        "date": "2023-02-15",
-        "title": "van Raam",
-        "point": "week&nbsp07",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "doen its met fietsne. \nfietsen op maat,, niet de standaart fies.\nhun vieise is dt iedreen met de fiest is. \nze zijn blij met een grote leaser maschine, de trulaser cell 740\nis een 3D router, voor metaal.",
-        "path": "\\Smart Busines\\pitchens\\van Raam.md"
-    },
+    // {
+    //     "date": "2023-02-15",
+    //     "title": "bedrfijs pitches",
+    //     "point": "week&nbsp07",
+    //     "imgSrc": "",
+    //     "imgAlt": "",
+    //     "desc": "Invullen over bedrijf pihches",
+    //     "path": "\\Smart Busines\\pitchens\\Agriware.md"
+    // },
     {
         "date": "2023-02-08",
-        "title": "Precentaite.",
+        "title": "Smart connect eerte workshop",
         "point": "week&nbsp06",
-        "imgSrc": "",
+        "imgSrc": "PersoonlijkR/workshop1js.PNG",
         "imgAlt": "",
-        "desc": "[[Hub\u00e8rt Bijsterveld]]\n[[Hub\u00e8rt Bijsterveld|Hubert]]\n\ndonderdag de 16 wordt de eerste workshop. \nwe gaan een kline moeder boerde, met bhylp va neen adriiona, hebben.",
+        "desc": "Voor de eerste smart connect workshop heb ik geleerd met javascript te gaan werken en hoe je daar gebruikt maakt van api naar ander site om gegevens in te laden. Zelf heb ik nooit eerder met javascript gewerkt en vooral niet het inladen van elemten. Deze nieuwe kennis kon ik toepassen in het project en de portefolie. ",
         "path": "\\Smart Connect\\Precentaite..md"
     },
     {
         "date": "2023-02-13",
-        "title": "Presetnetie opdracht plant connect,",
+        "title": "Presetnetie plant connect,",
         "point": "week&nbsp07",
-        "imgSrc": "",
+        "imgSrc": "PersoonlijkR/pointcloud.PNG",
         "imgAlt": "",
-        "desc": "Presentator [[Bolai Xin]]\n\nplant phenotype\nvoor de onderzoek moeten ze aantel punten weten, hoe voor is het weer/ omgeving van de plant belangrijk. denk hieraar de tempatuur, de light nuvie, lucht votigheid, in de broeikast.",
+        "desc": "Tijdens de presentatie van Bolai Xin heb ik geleerd hoe object detectie te werkt gaat achter de schermen, maar ook hoe je makkelijk in een python notebook te werk kan gaan. om zo je point cloud in te laden en te bewerken. Dit is een van de lastigere onderwerpen waar ik nog steeds moeite mee heb om in een bruikbare casus te kunnen plaatsen.",
         "path": "\\Smart Connect\\Presetnetie opdracht plant connect,.md"
     },
     {
-        "date": "2023-02-10",
-        "title": "Programmeren 101 (met JavaScript)",
-        "point": "week&nbsp06",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "## Werken met variabelen\n\nWaarden worden bewaard in variabelen",
-        "path": "\\Smart Connect\\Programmeren 101 (met JavaScript).md"
-    },
-    {
         "date": "2023-03-09",
-        "title": "AFtersales door middel van 3d-printen",
+        "title": "Aftersales door middel van 3d-printen",
         "point": "week&nbsp10",
-        "imgSrc": "",
+        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "wat dit inhoud is de omvatt inalle disnten ddie na de vekoop van een product worden geleverd. \n want je kan na dat een product op de makrt is me , 3D printen de modnge ondedlen op verzoek maken voor het vervangen van een onderdeel.\n\n\nconclusie. je kan gebruikt van 3D printen minder afval hebben....", "path": "\\Smart industry\\prestinetin opdracht\\AFtersales door middel van 3d-printen.md"
+        "desc": "Een interstante toepassing die ik vond is het gebruik van 3d printen, niet tijdens de productie en verkoop. maar juist bij aftersales wanneer je niet actief je product zit te verkopen. Maar juist als ondersteuning, zo dat je op verzoek onderdelen kunt maken als een klant die nodig heeft, waar bij je niet een voorraad nodig hebt van je voldige cateloog.",
+        "path": "\\Smart industry\\prestinetin opdracht\\AFtersales door middel van 3d-printen.md"
     },
     {
         "date": "2023-02-13",
         "title": "presenatie 3d printen.",
         "point": "week&nbsp07",
-        "imgSrc": "",
+        "imgSrc": "PersoonlijkR/backjev5.PNG",
         "imgAlt": "",
-        "desc": "vanmiddag, komt connection, less. \nmeneer kremens. \n beadveis, je opdracht voorbereiden 4. voor de les er voor . \n we hebben praties geeedlte, de solid words. we gaan bakje ontwerken, voor de iot dingen. \nwe gaan gebruike maken van de fablab van de han.",
+        "desc": "Tijdens de workshoppen van 3d printen heb ik leren werken met een nieuwe 3d modeling programma, om zo mijn bakje voor de planten opdracht te ontwerken en te maken. Hiernaar heb ik ook nog een hoop nieuwe begrippen en technieken over 3d printen bij geleerd. Samen met Ashley,Stefano, en Bas​ hebben wij ook samen gewerkt aan een presentatie over het gebruik van 3d printen bij R&D",
         "path": "\\Smart industry\\prestinetin opdracht\\presenatie 3d printen..md"
-    },
-    {
-        "date": "2023-03-09",
-        "title": "prestianteni, producite gorep",
-        "point": "week&nbsp10",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "het gebruikt van een mail, in de productie is sneller dan het gebruik van 3d printen. \nje hebet namelijk maar 1 mail voor het product.\n3d pirnten hebt, wantje hoeft niet een voldige nieuwe mold, te maken. \ner zijn medere modelen al online beschikbaar voor gebruik\ner zijn meder print techneiekn die je kunt gebruiken in productie.",
-        "path": "\\Smart industry\\prestinetin opdracht\\prestianteni, producite gorep.md"
-    },
-    {
-        "date": "2023-03-09",
-        "title": "binder jetting",
-        "point": "week&nbsp10",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "is from van [[Powder bed fusion]]\nalleen je gebruikt een lijm achte spull\n-   Materials:\u00a0\u200b\n      Polymer/ Metal powder,\u00a0 bonding agent liquid\u200b",
-        "path": "\\Smart industry\\Print manieren\\binder jetting.md"
-    },
-    {
-        "date": "2023-03-09",
-        "title": "FDM-ANNO-1800",
-        "point": "week&nbsp10",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "---\naliases:\n---SImple oject/ onderedel\nlage kosten\nzwak",
-        "path": "\\Smart industry\\Print manieren\\FDM-ANNO-1800.md"
-    },
-    {
-        "date": "2023-03-09",
-        "title": "Fused Deposition Modeling",
-        "point": "week&nbsp10",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "---\naliases: FDM, FFF, Fused Deposition Modeling\n---\n# Wiki \n**[[Fused Deposition Modeling]]**, of **[[Fused Deposition Modeling|FDM]]**, is een [[Rapid Prototyping]]-techniek waarbij laag na laag materiaal aan elkaar wordt gesmolten.",
-        "path": "\\Smart industry\\Print manieren\\Fused Deposition Modeling.md"
-    },
-    {
-        "date": "2023-03-09",
-        "title": "Powder bed fusion",
-        "point": "week&nbsp10",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "---\naliases: SLS, Sintering, Powder bed fusion, PBF, LPBF, EB PBF, Electron Beam Powder Bed, Laser Powder Bed Fusion\n---\n\n# SLS",
-        "path": "\\Smart industry\\Print manieren\\Powder bed fusion.md"
-    },
-    {
-        "date": "2023-03-09",
-        "title": "StereoLithography Apparatus",
-        "point": "week&nbsp10",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "---\naliases: SLA, DLP, CDLP, photopolymerization, StereoLithography\n---",
-        "path": "\\Smart industry\\Print manieren\\StereoLithography Apparatus.md"
     },
     {
         "date": "2023-01-31",
@@ -331,123 +155,43 @@ var timelineCards2 = [
         "point": "week&nbsp05",
         "imgSrc": null,
         "imgAlt": "",
-        "desc": "Mijn begin van de Minor begon met de start opdracht voorbereiden. Gevold met een eerste kennis making #### Opdracht\n\nTijdens onze eerste ontmoeting op 1 februari gaan we samen kijken naar wat Smart Industry - of Industry 4.0 - betekent. De volgende video legt kort uit wat het is.\n\nJe hebt nu een definitie van het begrip Smart Industry. Tijdens de minor gaan we hier gezamenlijk een persoonlijke invulling aan geven. Dit doen we door puzzelstukjes te verzamelen (kennis, indrukken, ervaringen, tests en demo's, etc.) Deze koppelen we aan elkaar en zo ontstaat ons eigen Smart Industry verhaal.",
+        "desc": "Mijn begin van de Minor begon met de start opdracht voorbereiden. Gevold met een eerste kennis making, Bij de kennis making hebben we de start opdracht besproken.",
         "path": "\\Smart Journey\\Start Opdracht.md"
-    },
-    {
-        "date": "2023-05-10",
-        "title": "intervisie10mei",
-        "point": "week&nbsp19",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "# Intervisie 10 Mei\n\nMirandi: tips voor de porte folie\nnog een paar weken, we sluiten af met een semmenar.",
-        "path": "\\Smart project\\intervisie10mei.md"
-    },
-    {
-        "date": "2023-05-10",
-        "title": "linkedin lunchlezning.",
-        "point": "week&nbsp19",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "Linkedin ding, \n\n\nPieter Wijchen, is op verkantie.",
-        "path": "\\Smart project\\linkedin lunchlezning..md"
-    },
-    {
-        "date": "2023-04-26",
-        "title": "portoetoflie power point.",
-        "point": "week&nbsp17",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "tips voor de portevolie,\nis niet de beodling dat je alles wat je mee maakt op schrijft, \nmaar juist dingen ddie je hebt geleerd, hebt op zet. \ngaat om wat je geleerd heb.t waar je in ontwikkeld hebt. \nje hoeft niet bij alles text neer te zetten, je kan ook elkaen bewijst lasten van een oinder werp neer zetten.", "path": "\\Smart project\\portoetoflie power point..md"
-    },
-    {
-        "date": "2023-04-26",
-        "title": "power pont van alliander",
-        "point": "week&nbsp17",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "persoon : ella, boere , 4de jaar studien, afstuuderd bij alliander. \n\n\ngrote uit duitdinge is de nernige trancitne regeln. \nde tenainate,",
-        "path": "\\Smart project\\power pont van alliander.md"
-    },
-    {
-        "date": "2023-04-12",
-        "title": "prestnatie",
-        "point": "week&nbsp15",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "vraagen, waar licht het project de nadruk op bij ons project, de busness, huma, of de tech. \nde punt daar bij is dat het met alle 3 punten zijn van belang.",
-        "path": "\\Smart project\\prestnatie.md"
-    },
-    {
-        "date": "2023-04-18",
-        "title": "AM",
-        "point": "week&nbsp16",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "Additieve manufacturing",
-        "path": "\\Smart Technology\\AM.md"
     },
     {
         "date": "2023-03-02",
         "title": "Influx",
         "point": "week&nbsp09",
-        "imgSrc": "",
+        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "Cloud Data base",
+        "desc": "Tijdens de influx lessen heb ik geleerd hoe je met een ESP32 de wifi kan ververbindne om op die manier key value pare data op te sturen naar een influx data base. Dit is tech echt anders mannier van te werk gegaan dan als ik gewend was, want je onthaald live data van sensor. Dit is een stuk anders dan de gewende manier van database gebruik waar bij je een website host die in de backend verbonden is met een database en schema.",
         "path": "\\Smart Technology\\Influx.md"
     },
-    {
-        "date": "2023-03-02",
-        "title": "Les 2",
-        "point": "week&nbsp09",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "we gaan met dat basese werken,omm van veel punten data in te laden in de database. \n\n\n\n```c++",
-        "path": "\\Smart Technology\\Les 2.md"
-    },
-    {
-        "date": "2023-04-18",
-        "title": "les 3 of 4",
-        "point": "week&nbsp16",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "voordelen van 3d printen. \nDit is deels een herhaling les. \n# rapid projdcit development \nDit doet je tijdens de prototpying van je projdcut, in het beging. \nals je co,puseer product moet maken, is in verhuiding to de 3d printen een stuk trager. 3d printen is hierdoor sneller en goedkoper.",
-        "path": "\\Smart Technology\\les 3 of 4.md"
-    },
-    {
-        "date": "2023-04-18",
-        "title": "MIM",
-        "point": "week&nbsp16",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "Metal injection modling",
-        "path": "\\Smart Technology\\MIM.md"
-    },
-    {
-        "date": "2023-04-20",
-        "title": "prestnatine matthijs machines",
-        "point": "week&nbsp16",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "bij het inrehcten van je productie lijn moet je regeking houden met de buffers die je neer zet, voor de tijd dat machienn onbeheerd hun gang kunnen laten gaan. \n\nje moet ook op letten dat hetvor kan komen dat personeel, werk vercihten dat je niet direct door hebt. zo als doppen opdraaien die net niet goed zitten, of fouten flessen er uit halen. als je deze extra handelingen niet voor ogen hebt kun probleem krijgke ndat je betaaplde process niet heb afgevangen. \n\nhet aanpassen van bestande fabriek lijnen op processen die mis kunnen lopen kunnen lasting worden opgelost.",
-        "path": "\\Smart Technology\\prestnatine matthijs machines.md"
-    },
-    {
-        "date": "2023-03-02",
-        "title": "Untitled",
-        "point": "week&nbsp09",
-        "imgSrc": "",
-        "imgAlt": "",
-        "desc": "",
-        "path": "\\Smart Technology\\Untitled.md"
-    },
+    // {
+    //     "date": "2023-04-20",
+    //     "title": "prestnatine matthijs machines",
+    //     "point": "week&nbsp16",
+    //     "imgSrc": "",
+    //     "imgAlt": "",
+    //     "desc": "bij het inrehcten van je productie lijn moet je regeking houden met de buffers die je neer zet, voor de tijd dat machienn onbeheerd hun gang kunnen laten gaan. \n\nje moet ook op letten dat hetvor kan komen dat personeel, werk vercihten dat je niet direct door hebt. zo als doppen opdraaien die net niet goed zitten, of fouten flessen er uit halen. als je deze extra handelingen niet voor ogen hebt kun probleem krijgke ndat je betaaplde process niet heb afgevangen. \n\nhet aanpassen van bestande fabriek lijnen op processen die mis kunnen lopen kunnen lasting worden opgelost.",
+    //     "path": "\\Smart Technology\\prestnatine matthijs machines.md"
+    // },
     {
         "date": "2023-02-16",
-        "title": "workshop 1",
+        "title": "workshop 1 technologies",
         "point": "week&nbsp07",
-        "imgSrc": "",
+        "imgSrc": "PersoonlijkR/esp32.jpeg",
         "imgAlt": "",
-        "desc": "[[Hub\u00e8rt Bijsterveld|Hubert]] gaan beginnnetmet Iot workshop vandaag, \n\nje wilt dingen combineren zo dat je oude technolikge gebruikt tot iets niews maakt.",
+        "desc": "Tijdens de workshop van smart technologies hebben we geleerd te werken met het programmeren van een ESP. Hierbij heb ik PlatformIO geleerd om zo in C++ codeing op de ESP. Omdat ik al wat kennis van embed software had ben ik hierverder in gaan verdiepen in het gebruik van infra rood leds waar mee ik mijn eigen thuis lampen kan aansturen, door de sinaal van de afstanbeindng uit te lezen en die te reprodiseren. Ook ben ik RFID cards bezig geweest om die te kunnen uitlezen en schrijven, waarbij je moest uit zoeken hoe de spesifictie werkt van zoon chip",
+        "path": "\\Smart Technology\\workshop 1.md"
+    },
+    {
+        "date": "2023-06-07",
+        "title": "Project",
+        "point": "week&nbsp19",
+        // "imgSrc": "",
+        "imgAlt": "",
+        "desc": "Het project van de minor was en is nog steeds de grote uitdaging die ik heb ondernomen tijdens de minor. Mijn project team van ik Joris en Chantal zijn begonen met een project wat al snel uit loopte tot veel veder gaande doel dan de de MSI minor voor ogen had. Dit is namelijk het opstarten van een eigen bedrijf met een product op de markt brengen. Zelf vind ik dit zeer spanned, want voorgaande projecen hadden altijd een vaste eind datum waar het klaar is en dat je er van af bent. Maar deze opdracht juist niet. Waarbij je binnen een school project in een simulatie zit waar je fouten mag maken zonder risico, is het opstellen van een eigen bedrijf niet zonder gevolgen. Dit valt exstreem buiten mijn eigen comfort zone en is nog steeds ongemaklijke en zeuwen wachtig. Gelukkig heb ik 2 geweldige studenten die mijn helpen hiermee, en achtief met ze drieren werken om mij zelf en elkaar elke dag te verbeteren. <br> Een voorbeeld van wat ik al heb opgemekt: <i>Wanneer ik een presetatie geeft en ik heb het naar mijn zin, dan blijf ik door klentsen. Dankzij de eerdere presentaties en de feedback die ik van mijn team genoten heb ontvangen, wist ik dat ik aan het doorratelen was en een einde moest maken. Dit was goed want ik ging zo als gewonlijk veel te diep op een punt in wat totaal niet de bedoeling was.</i><br> Maar ook met comunicatie zie ik verbetering, waarbij ik in het verleden niet zal hebben gereageerd; of zal hebben uitgesteld. Beantwoord en stel ik nu juist vragen.",
         "path": "\\Smart Technology\\workshop 1.md"
     }
 ];
