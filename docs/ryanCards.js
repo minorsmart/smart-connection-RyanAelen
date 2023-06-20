@@ -3,9 +3,8 @@ var timelineCards2 = [
         "date": "2023-04-05",
         "title": "BESSI",
         "point": "week&nbsp14",
-        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "Bij de project van MSI hebben we deels bessi kunnen invulle, omdat we een new product op de markt willen brengen konden we helaas niet veel van invullen en moesten we nog zelf uit vogelen waar we naar toe werken. Dit maakte voor mij maar ook voor het team duidelijk dat het product nog in kinder schoenen staat en we een hoop werk te gemoet zullen krijgen.",
+        "desc": "Bij het project van MSI hebben we deels BESSI kunnen invullen. Omdat we een nieuw product op de markt willen brengen, konden we helaas niet veel invullen en moesten we nog zelf uitzoeken waar we naartoe werken. Dit maakte voor mij, maar ook voor het team, duidelijk dat het product nog in de kinderschoenen staat en dat we nog veel werk te doen hebben.",
         "path": "\\BESSI.md"
     },
     {
@@ -14,16 +13,15 @@ var timelineCards2 = [
         "point": "week&nbsp06",
         "imgSrc": "PersoonlijkR/DMC.png",
         "imgAlt": "",
-        "desc": "Geleerd wat een BMC is en hoe je die moet invullen",
+        "desc": "Ik heb geleerd wat een BMC is en hoe je die moet invullen.",
         "path": "\\BMC.md"
     },
     {
         "date": "2023-03-14",
         "title": "Brain Hacking met Ilke Oner",
         "point": "week&nbsp11",
-        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "De belangrijkse wat ik heb mee gekregen tijdens de brain hacking is hoe je naar andere over brengt en over je zelf zet tegen over andere. Bij de talk en met een op een gesprek met Ilke verdiepen in Rappor. Probleem waar mee ik zat is dat je zelf en de ander persoon op elkaar afstem, dat je eigelijk elkaar zit te missleidinen door te doen of iemand anders ben dan wie je eigelijk bent. Zo voel ik mij er bij. en dit te doorbreken dat het niet zo is, ben ik nog steeds mee bezig daar convertable bij te voelen.",
+        "desc": "Het belangrijkste dat ik heb geleerd tijdens de brain hacking is hoe je jezelf presenteert ten opzichte van anderen. Tijdens de presentatie en in een één-op-één gesprek met Ilke heb ik me verdiept in rappor. Het probleem waar ik mee zat, is dat je jezelf en de andere persoon op elkaar afstemt, alsof je iemand anders bent dan wie je werkelijk bent. Zo voel ik me erbij. Ik ben nog steeds bezig om dit patroon te doorbreken en me meer comfortabel te voelen.",
         "path": "\\Brain Hacking met Ilke Oner.md"
     },
     {
@@ -60,9 +58,8 @@ var timelineCards2 = [
         "date": "2023-04-06",
         "title": "SECO",
         "point": "week&nbsp14",
-        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "De Seco bezoek was een van de hogere intrestanten bedrijfs bezoeken, hierwas de opdracht voor een verbetervoorstel uitermaten lastig om uit te werken. Zelf vind ik het niet de beste oplossing voor hun die Anthony, ik, Aaron, Saar hebben geprestneerd. Dit komt omdat het bedrijf al heel veel zaken op orde hebben, of al zaken die we konden bedenken zijn ze al actief mee bezig."
+        "desc": "Het bezoek aan SECO was een van de meest interessante bedrijfsbezoeken. De opdracht voor een verbetervoorstel was uitermate lastig om uit te werken. Persoonlijk vind ik het niet de beste oplossing die Anthony, ik, Aaron en Saar hebben voorgesteld. Dit komt doordat het bedrijf al veel zaken op orde heeft, of ze zijn al actief bezig met de zaken die we bedacht hebben."
     },
     {
         "date": "2023-01-31",
@@ -70,7 +67,7 @@ var timelineCards2 = [
         "point": "week&nbsp05",
         "imgSrc": "PersoonlijkR/toesting.png",
         "imgAlt": "",
-        "desc": "Wij worden getoets op onze ontwikkeling die we behalen met de compenaties, dit moeten we vast leggen in een eigen portfolie. Hoe ik en mijn team dit hebben aan gepakt is door middel van een tijdslijn.",
+        "desc": "We worden getoetst op onze ontwikkeling die we behalen met de competenties. Dit moeten we vastleggen in ons eigen portfolio. Hoe ik en mijn team dit hebben aangepakt, is door middel van een tijdslijn.",
         "path": "\\Toetsing.md"
     },
     {
@@ -79,7 +76,7 @@ var timelineCards2 = [
         "point": "week&nbsp10",
         "imgSrc": "https://www.elk.nl/upload/xlarge/slider-badkamer.jpg",
         "imgAlt": "",
-        "desc": "Bij het bedrijven bezoek van Elk was ik oorspronkelijk op het verkeerde address beland, gelukkig heb ik samen met twee ander studentne kunnen regelen voor vervoer naar de correcte locatie. Een van mijn zelf ontwikkeling was meer met mensen in contact staan/ zoeken. Deed ik dat niet dan zal ik veel later aanwezig zijn geweest. <br> Ook heb ik geleerd en ben ik van mening dat het agil te werk gaan niet enkel binnen de software developemnt gebruikt kan worden maar ook zijn plaats heeft binnen andere bedrijfs omgevingen en doelen. Bij de ",
+        "desc": "Bij het bedrijfsbezoek van ELK belandde ik oorspronkelijk op het verkeerde adres, gelukkig kon ik samen met twee andere studenten regelen dat we naar de juiste locatie werden gebracht. Een van mijn eigen ontwikkelingspunten was meer contact maken met mensen. Als ik dat niet had gedaan, zou ik veel later aanwezig zijn geweest. <br> Daarnaast heb ik geleerd en ben ik van mening dat agile werken niet alleen binnen de softwareontwikkeling gebruikt kan worden, maar ook toepasbaar is in andere bedrijfsomgevingen en doelen. ",
         "path": "\\Smart Busines\\bedrijf ELK.md"
     },
     {
@@ -88,11 +85,7 @@ var timelineCards2 = [
         "point": "week&nbsp05",
         "imgSrc": "PersoonlijkR/pithces.png",
         "imgAlt": "",
-        "desc": `Mijn eigen leerdoelen voor de smart business bestaat uit <ul>
-        <li>Geen aannamens nemen:</li> Dit doe ik door door tevragen als ik iets niet begreep of heb verstaan.
-        <li>Namen van de studenten weten:</li> Dit doe ik door elke bijeenkomst de namen door te nemen en te oefenen. 
-        <li>Mij zelf verbeteren op in social aspect:</li> Dit doe ik door mij zelf naar voren te brengen.
-        </ul>`,
+        "desc": "Mijn eigen leerdoelen voor de smart business bestaan uit: <ul><li>Geen aannames doen:</li> Dit doe ik door door te vragen als ik iets niet begreep of verstaan heb.<li>De namen van de studenten kennen:</li> Dit doe ik door bij elke bijeenkomst de namen te herhalen en te oefenen.<li>Mijzelf verbeteren op het gebied van sociale interactie:</li> Dit doe ik door mezelf naar voren te brengen.</ul>",
         "path": "\\Smart Busines\\Smarkt busniess.md"
     },
     {
@@ -101,25 +94,16 @@ var timelineCards2 = [
         "point": "week&nbsp11",
         "imgSrc": "PersoonlijkR/value-proposition-canvas-2239425063.png",
         "imgAlt": "",
-        "desc": "De value propersistion canvas was een canvas waar ik nog vragen bij had, geluk kon ik met de kennis van Chantal extra informatie ontrekken om mij duidelijker te maken. Dit heb ik kunnen gebruiken bij het project van MSI om te kijken welke pijnen handig is om te ontnemen van de klant.",
+        "desc": "Het Value Proposition Canvas was een canvas waar ik nog vragen over had. Gelukkig kon ik met de kennis van Chantal extra informatie verkrijgen om het me duidelijker te maken. Deze kennis kon ik gebruiken bij het MSI-project om te bepalen welke pijnpunten handig zijn om bij de klant weg te nemen.",
         "path": "\\Smart Busines\\value proposition canvas.md"
     },
-    // {
-    //     "date": "2023-02-15",
-    //     "title": "bedrfijs pitches",
-    //     "point": "week&nbsp07",
-    //     "imgSrc": "",
-    //     "imgAlt": "",
-    //     "desc": "Invullen over bedrijf pihches",
-    //     "path": "\\Smart Busines\\pitchens\\Agriware.md"
-    // },
     {
         "date": "2023-02-08",
         "title": "Smart connect eerte workshop",
         "point": "week&nbsp06",
         "imgSrc": "PersoonlijkR/workshop1js.PNG",
         "imgAlt": "",
-        "desc": "Voor de eerste smart connect workshop heb ik geleerd met javascript te gaan werken en hoe je daar gebruikt maakt van api naar ander site om gegevens in te laden. Zelf heb ik nooit eerder met javascript gewerkt en vooral niet het inladen van elemten. Deze nieuwe kennis kon ik toepassen in het project en de portefolie. ",
+        "desc": "Tijdens de eerste Smart Connect Workshop heb ik geleerd om met JavaScript te werken en hoe je gebruik kunt maken van API's om gegevens van andere websites in te laden. Ik had nog nooit eerder met JavaScript gewerkt, vooral niet met het inladen van elementen. Deze nieuwe kennis kon ik toepassen in het project en het portfolio.",
         "path": "\\Smart Connect\\Precentaite..md"
     },
     {
@@ -128,16 +112,15 @@ var timelineCards2 = [
         "point": "week&nbsp07",
         "imgSrc": "PersoonlijkR/pointcloud.PNG",
         "imgAlt": "",
-        "desc": "Tijdens de presentatie van Bolai Xin heb ik geleerd hoe object detectie te werkt gaat achter de schermen, maar ook hoe je makkelijk in een python notebook te werk kan gaan. om zo je point cloud in te laden en te bewerken. Dit is een van de lastigere onderwerpen waar ik nog steeds moeite mee heb om in een bruikbare casus te kunnen plaatsen.",
+        "desc": "Tijdens de presentatie van Bolai Xin heb ik geleerd hoe objectdetectie werkt achter de schermen, maar ook hoe je makkelijk in een Python-notebook te werk kunt gaan om je point cloud in te laden en te bewerken. Dit is een van de lastigere onderwerpen waar ik nog steeds moeite mee heb om in een bruikbare casus te kunnen plaatsen.",
         "path": "\\Smart Connect\\Presetnetie opdracht plant connect,.md"
     },
     {
         "date": "2023-03-09",
         "title": "Aftersales door middel van 3d-printen",
         "point": "week&nbsp10",
-        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "Een interstante toepassing die ik vond is het gebruik van 3d printen, niet tijdens de productie en verkoop. maar juist bij aftersales wanneer je niet actief je product zit te verkopen. Maar juist als ondersteuning, zo dat je op verzoek onderdelen kunt maken als een klant die nodig heeft, waar bij je niet een voorraad nodig hebt van je voldige cateloog.",
+        "desc": "Een interessante toepassing die ik heb gevonden, is het gebruik van 3D-printen, niet tijdens de productie en verkoop, maar juist bij aftersales. Op die manier kun je op verzoek onderdelen maken die een klant nodig heeft, zonder dat je een voorraad hoeft te hebben van je volledige catalogus.",
         "path": "\\Smart industry\\prestinetin opdracht\\AFtersales door middel van 3d-printen.md"
     },
     {
@@ -146,52 +129,40 @@ var timelineCards2 = [
         "point": "week&nbsp07",
         "imgSrc": "PersoonlijkR/backjev5.PNG",
         "imgAlt": "",
-        "desc": "Tijdens de workshoppen van 3d printen heb ik leren werken met een nieuwe 3d modeling programma, om zo mijn bakje voor de planten opdracht te ontwerken en te maken. Hiernaar heb ik ook nog een hoop nieuwe begrippen en technieken over 3d printen bij geleerd. Samen met Ashley,Stefano, en Bas​ hebben wij ook samen gewerkt aan een presentatie over het gebruik van 3d printen bij R&D",
+        "desc": "Tijdens de workshops over 3D-printen heb ik geleerd te werken met een nieuw 3D-modelleerprogramma om mijn bakje voor de plantenopdracht te ontwerpen en te maken. Daarnaast heb ik ook veel nieuwe begrippen en technieken over 3D-printen geleerd. Samen met Ashley, Stefano en Bas hebben we ook samengewerkt aan een presentatie over het gebruik van 3D-printen bij R&D.",
         "path": "\\Smart industry\\prestinetin opdracht\\presenatie 3d printen..md"
     },
     {
         "date": "2023-01-31",
         "title": "Start Opdracht",
         "point": "week&nbsp05",
-        "imgSrc": null,
         "imgAlt": "",
-        "desc": "Mijn begin van de Minor begon met de start opdracht voorbereiden. Gevold met een eerste kennis making, Bij de kennis making hebben we de start opdracht besproken.",
+        "desc": "Mijn begin van de Minor begon met het voorbereiden van de startopdracht, gevolgd door een kennismaking. Tijdens de kennismaking hebben we de startopdracht besproken.",
         "path": "\\Smart Journey\\Start Opdracht.md"
     },
     {
         "date": "2023-03-02",
         "title": "Influx",
         "point": "week&nbsp09",
-        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "Tijdens de influx lessen heb ik geleerd hoe je met een ESP32 de wifi kan ververbindne om op die manier key value pare data op te sturen naar een influx data base. Dit is tech echt anders mannier van te werk gegaan dan als ik gewend was, want je onthaald live data van sensor. Dit is een stuk anders dan de gewende manier van database gebruik waar bij je een website host die in de backend verbonden is met een database en schema.",
+        "desc": "Tijdens de Influx-lessen heb ik geleerd hoe je met een ESP32 de wifi kunt verbinden om op die manier key-value-pair data naar een Influx-database te sturen. Dit is een totaal andere manier van werken dan ik gewend was, omdat je live gegevens van een sensor ontvangt. Dit verschilt sterk van de gebruikelijke manier van databasegebruik, waarbij je een website host die aan de backend verbonden is met een database en schema.",
         "path": "\\Smart Technology\\Influx.md"
     },
-    // {
-    //     "date": "2023-04-20",
-    //     "title": "prestnatine matthijs machines",
-    //     "point": "week&nbsp16",
-    //     "imgSrc": "",
-    //     "imgAlt": "",
-    //     "desc": "bij het inrehcten van je productie lijn moet je regeking houden met de buffers die je neer zet, voor de tijd dat machienn onbeheerd hun gang kunnen laten gaan. \n\nje moet ook op letten dat hetvor kan komen dat personeel, werk vercihten dat je niet direct door hebt. zo als doppen opdraaien die net niet goed zitten, of fouten flessen er uit halen. als je deze extra handelingen niet voor ogen hebt kun probleem krijgke ndat je betaaplde process niet heb afgevangen. \n\nhet aanpassen van bestande fabriek lijnen op processen die mis kunnen lopen kunnen lasting worden opgelost.",
-    //     "path": "\\Smart Technology\\prestnatine matthijs machines.md"
-    // },
     {
         "date": "2023-02-16",
         "title": "workshop 1 technologies",
         "point": "week&nbsp07",
         "imgSrc": "PersoonlijkR/esp32.jpeg",
         "imgAlt": "",
-        "desc": "Tijdens de workshop van smart technologies hebben we geleerd te werken met het programmeren van een ESP. Hierbij heb ik PlatformIO geleerd om zo in C++ codeing op de ESP. Omdat ik al wat kennis van embed software had ben ik hierverder in gaan verdiepen in het gebruik van infra rood leds waar mee ik mijn eigen thuis lampen kan aansturen, door de sinaal van de afstanbeindng uit te lezen en die te reprodiseren. Ook ben ik RFID cards bezig geweest om die te kunnen uitlezen en schrijven, waarbij je moest uit zoeken hoe de spesifictie werkt van zoon chip",
+        "desc": "Tijdens de workshop over smart technologies hebben we geleerd hoe we een ESP kunnen programmeren. Ik heb daarbij PlatformIO geleerd om C++ code op de ESP te schrijven. Omdat ik al enige kennis had van embedded software, ben ik me verder gaan verdiepen in het gebruik van infrarood-leds om mijn eigen thuislampen aan te sturen door het signaal van de afstandsbediening uit te lezen en te reproduceren. Ik heb ook gewerkt met RFID-kaarten om ze uit te lezen en herschrijven, waarbij ik de specificaties van zo'n chip moest uitzoeken.",
         "path": "\\Smart Technology\\workshop 1.md"
     },
     {
         "date": "2023-06-07",
         "title": "Project",
         "point": "week&nbsp19",
-        // "imgSrc": "",
         "imgAlt": "",
-        "desc": "Het project van de minor was en is nog steeds de grote uitdaging die ik heb ondernomen tijdens de minor. Mijn project team van ik Joris en Chantal zijn begonen met een project wat al snel uit loopte tot veel veder gaande doel dan de de MSI minor voor ogen had. Dit is namelijk het opstarten van een eigen bedrijf met een product op de markt brengen. Zelf vind ik dit zeer spanned, want voorgaande projecen hadden altijd een vaste eind datum waar het klaar is en dat je er van af bent. Maar deze opdracht juist niet. Waarbij je binnen een school project in een simulatie zit waar je fouten mag maken zonder risico, is het opstellen van een eigen bedrijf niet zonder gevolgen. Dit valt exstreem buiten mijn eigen comfort zone en is nog steeds ongemaklijke en zeuwen wachtig. Gelukkig heb ik 2 geweldige studenten die mijn helpen hiermee, en achtief met ze drieren werken om mij zelf en elkaar elke dag te verbeteren. <br> Een voorbeeld van wat ik al heb opgemekt: <i>Wanneer ik een presetatie geeft en ik heb het naar mijn zin, dan blijf ik door klentsen. Dankzij de eerdere presentaties en de feedback die ik van mijn team genoten heb ontvangen, wist ik dat ik aan het doorratelen was en een einde moest maken. Dit was goed want ik ging zo als gewonlijk veel te diep op een punt in wat totaal niet de bedoeling was.</i><br> Maar ook met comunicatie zie ik verbetering, waarbij ik in het verleden niet zal hebben gereageerd; of zal hebben uitgesteld. Beantwoord en stel ik nu juist vragen.",
+        "desc": "Het project van de minor was en is nog steeds de grote uitdaging die ik ben aangegaan tijdens de minor. Mijn projectteam, bestaande uit me zelf Joris en Chantal, zijn begonnen met een project dat al snel een veel groter doel kreeg dan de MSI-minor voor ogen had. We zijn namelijk begonnen met het opzetten van ons eigen bedrijf en het op de markt brengen van een product. Ik vind dit erg spannend, omdat voorgaande projecten altijd een vaste einddatum hadden waarop het klaar was en je ervan af was. Maar deze opdracht niet. Het opstarten van een eigen bedrijf brengt risico's met zich mee die buiten mijn comfortzone liggen en nog steeds ongemakkelijk en zenuwslopend zijn. Gelukkig heb ik twee geweldige medestudenten die me hierbij helpen, en werken we actief met z'n drieën samen om onszelf en elkaar elke dag te verbeteren. <br> Een voorbeeld van iets wat ik al heb opgemerkt: <i>Wanneer ik een presentatie geef en ik heb het naar mijn zin, ga ik vaak te lang door. Dankzij eerdere presentaties en de feedback van mijn teamgenoten wist ik dat ik aan het doorratelen was en een einde moest maken. Dit was goed, want ik ging zoals gewoonlijk te diep in op een punt dat totaal niet de bedoeling was.</i><br> Ook merk ik verbetering in communicatie, waar ik in het verleden niet zou hebben gereageerd of het zou hebben uitgesteld. Doe ik het beantwoorden en stellen van vragen nu juist wel.",
         "path": "\\Smart Technology\\workshop 1.md"
     }
 ];
