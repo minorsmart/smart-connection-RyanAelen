@@ -56,14 +56,14 @@ var timelineCards2 = [
     },
     {
         "date": "2023-04-06",
-        "title": "SECO",
+        "title": "Bedrijfs bezoek aan SECO",
         "point": "week&nbsp14",
         "imgAlt": "",
         "desc": "Het bezoek aan SECO was een van de meest interessante bedrijfsbezoeken. De opdracht voor een verbetervoorstel was uitermate lastig om uit te werken. Persoonlijk vind ik het niet de beste oplossing die Anthony, ik, Aaron en Saar hebben voorgesteld. Dit komt doordat het bedrijf al veel zaken op orde heeft, of ze zijn al actief bezig met de zaken die we bedacht hebben."
     },
     {
         "date": "2023-01-31",
-        "title": "Hoe worden er getoets in de MSI minor",
+        "title": "Hoe wordt er getoetst binnen de MSI minor",
         "point": "week&nbsp05",
         "imgSrc": "PersoonlijkR/toesting.png",
         "imgAlt": "",
@@ -72,7 +72,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-03-08",
-        "title": "bedrijf ELK",
+        "title": "Bedrijfs bezoek aan ELK",
         "point": "week&nbsp10",
         "imgSrc": "https://www.elk.nl/upload/xlarge/slider-badkamer.jpg",
         "imgAlt": "",
@@ -81,7 +81,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-02-01",
-        "title": "Smarkt busniess",
+        "title": "Smart business",
         "point": "week&nbsp05",
         "imgSrc": "PersoonlijkR/pithces.png",
         "imgAlt": "",
@@ -90,7 +90,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-03-14",
-        "title": "value proposition canvas",
+        "title": "Value Proposition Canvas",
         "point": "week&nbsp11",
         "imgSrc": "PersoonlijkR/value-proposition-canvas-2239425063.png",
         "imgAlt": "",
@@ -99,7 +99,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-02-08",
-        "title": "Smart connect eerte workshop",
+        "title": "Smart connection eerste workshop",
         "point": "week&nbsp06",
         "imgSrc": "PersoonlijkR/workshop1js.PNG",
         "imgAlt": "",
@@ -108,7 +108,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-02-13",
-        "title": "Presetnetie plant connect,",
+        "title": "Presentatie artificial intelligence",
         "point": "week&nbsp07",
         "imgSrc": "PersoonlijkR/pointcloud.PNG",
         "imgAlt": "",
@@ -125,7 +125,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-02-13",
-        "title": "presenatie 3d printen.",
+        "title": "Presenatie 3D-printen.",
         "point": "week&nbsp07",
         "imgSrc": "PersoonlijkR/backjev5.PNG",
         "imgAlt": "",
@@ -142,7 +142,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-03-02",
-        "title": "Influx",
+        "title": "Influx database",
         "point": "week&nbsp09",
         "imgAlt": "",
         "desc": "Tijdens de Influx-lessen heb ik geleerd hoe je met een ESP32 de wifi kunt verbinden om op die manier key-value-pair data naar een Influx-database te sturen. Dit is een totaal andere manier van werken dan ik gewend was, omdat je live gegevens van een sensor ontvangt. Dit verschilt sterk van de gebruikelijke manier van databasegebruik, waarbij je een website host die aan de backend verbonden is met een database en schema.",
@@ -150,7 +150,7 @@ var timelineCards2 = [
     },
     {
         "date": "2023-02-16",
-        "title": "workshop 1 technologies",
+        "title": "Workshop 1 technology",
         "point": "week&nbsp07",
         "imgSrc": "PersoonlijkR/esp32.jpeg",
         "imgAlt": "",
